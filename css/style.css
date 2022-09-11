@@ -1239,9 +1239,9 @@ body {
   .top__text {
     margin: 15px 0 25px;
   }
-  .title {
+  /* .title {
     padding-top: 90px;
-  }
+  } */
   .products__slider-box {
     padding-top: 0;
   }
@@ -1251,9 +1251,9 @@ body {
     top: -105px;
     right: 0;
   }
-  .benefits .title {
+  /* .benefits .title {
     padding-top: 10px;
-  }
+  } */
   .benefits__item {
     margin-bottom: 80px;
   }
@@ -1270,11 +1270,11 @@ body {
   .specification__item--center img {
     width: 80%;
   }
-  .specification .title {
+  /* .specification .title {
     padding-top: 40px;
-  }
+  } */
   .questions .title {
-    padding-top: 40px;
+    /* padding-top: 40px; */
     margin-bottom: 20px;
   }
   .questions__item-title {
